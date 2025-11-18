@@ -15,5 +15,3 @@ public class VRWorldButton : MonoBehaviour
         onPress.Invoke();
     }
 }
-
-
